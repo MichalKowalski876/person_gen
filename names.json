@@ -52,15 +52,15 @@
     "Agnes", "Arina", "Anika", "Apolonia", "Beatrycze", "Celestyna", "Czesława", "Dafne", "Delfina", "Dina",
     "Dobrosława", "Donata", "Dżesika", "Erna", "Eryna", "Fausta", "Flora", "Florentyna", "Fryderyka", "Gaja",
     "Gustawa", "Hermina", "Hortensja", "Idalia", "Ildefonsa", "Imelda", "Inga", "Izydora", "Jadwiga", "Janina",
-    "Jesika", "Joanna-Maria", "Jonata", "Jolanta-Maria", "Jozefina", "Justa", "Kaja", "Kalista", "Karolcia", "Katarzyna-Maria",
-    "Kira", "Kleopatra", "Klotylda", "Kordula", "Krystiana", "Kunegunda", "Larysa", "Laura-Maria", "Laurencja", "Lea",
-    "Leonarda", "Ligia", "Lilia", "Lilianna", "Lora", "Luba", "Lubomira", "Luna", "Łucja-Maria", "Magdalena-Maria",
-    "Marietta", "Mariola", "Maryla", "Matylda-Maria", "Mila", "Milica", "Miłogostka", "Miłosława", "Mira-Maria", "Mirabella",
-    "Mirka", "Modesta", "Mokosza", "Nadia-Maria", "Nela", "Nikita", "Ninela", "Niusia", "Olga-Maria", "Orchidea",
-    "Pascalina", "Patrycja-Maria", "Petronela", "Porcja", "Prakseda", "Radomiła", "Radosława", "Roksana-Maria", "Romualda", "Róża-Maria",
-    "Rut", "Ryta", "Samuela", "Sawa-Maria", "Sławomira", "Sława", "Stanisława-Maria", "Stella-Maria", "Sybilla", "Świętosława",
-    "Tekla", "Teodora", "Tesia", "Tosia", "Ula", "Walentyna", "Wiara", "Wiera", "Wiesława-Maria", "Wioleta-Maria",
-    "Witolda", "Władysława-Maria", "Włodzimira", "Wojciecha", "Zawisza", "Zbysława", "Zdzicha", "Ziemowita", "Zina", "Zorza"
+    "Jesika", "Joanna", "Jonata", "Jolanta", "Jozefina", "Justa", "Kaja", "Kalista", "Karolcia", "Katarzyna",
+    "Kira", "Kleopatra", "Klotylda", "Kordula", "Krystiana", "Kunegunda", "Larysa", "Laura", "Laurencja", "Lea",
+    "Leonarda", "Ligia", "Lilia", "Lilianna", "Lora", "Luba", "Lubomira", "Luna", "Łucja", "Magdalena",
+    "Marietta", "Mariola", "Maryla", "Matylda", "Mila", "Milica", "Miłogostka", "Miłosława", "Mira", "Mirabella",
+    "Mirka", "Modesta", "Mokosza", "Nadia", "Nela", "Nikita", "Ninela", "Niusia", "Olga", "Orchidea",
+    "Pascalina", "Patrycja", "Petronela", "Porcja", "Prakseda", "Radomiła", "Radosława", "Roksana", "Romualda", "Róża",
+    "Rut", "Ryta", "Samuela", "Sawa", "Sławomira", "Sława", "Stanisława", "Stella", "Sybilla", "Świętosława",
+    "Tekla", "Teodora", "Tesia", "Tosia", "Ula", "Walentyna", "Wiara", "Wiera", "Wiesława", "Wioleta",
+    "Witolda", "Władysława", "Włodzimira", "Wojciecha", "Zawisza", "Zbysława", "Zdzicha", "Ziemowita", "Zina", "Zorza"
   ],
 
   "male_surnames": [
@@ -107,7 +107,6 @@
     "Twardowska", "Miernikowa", "Berg", "Gajewska", "Frączek", "Marek", "Borkowska", "Szczygieł", "Matuszak", "Pawełek",
     "Ziółkowska", "Ostrowska", "Paryska", "Fiedorczukowa", "Szydłowska", "Paterek", "Szczerbicka", "Brodowska", "Kucharska", "Sulej",
     "Kornak", "Grzybowska", "Szukalska", "Zientek", "Kwiatkowska", "Rogoż", "Siwek", "Jóźwiak", "Zawisza"
-  ]
   ]
 }
 
